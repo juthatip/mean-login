@@ -1,0 +1,16 @@
+{
+  "name": "login-project",
+  "version": "1.0.0",
+  "description": "Create a login project by using mean stack",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Juthatip",
+  "license": "MIT"
+}
